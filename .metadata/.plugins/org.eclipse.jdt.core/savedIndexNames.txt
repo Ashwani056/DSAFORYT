@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\DSAFORYT\.metadata\.plugins\org.eclipse.jdt.core
+1963076756.index
+1711571470.index
