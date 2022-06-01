@@ -10,7 +10,7 @@ public class Graph {
 		addEdges(adjMatrix, 0, 1);
 		addEdges(adjMatrix, 0, 2);
 		addEdges(adjMatrix, 0, 3);
-		
+	
 		//B<-->E
 		addEdges(adjMatrix, 1, 4);
 		
@@ -20,11 +20,8 @@ public class Graph {
 		//D<-->E
 		addEdges(adjMatrix, 3, 4);	
 		
-		displayMatrix(adjMatrix);
-		
+		displayMatrix(adjMatrix);	
 	}
-	
-	
 	// i-->row, j-->col
 	public static void addEdges(int adjMatrix[][],int i,int j)
 	{
